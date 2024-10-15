@@ -6,13 +6,7 @@ title: "Week 08"
 ### Tuesday (10/31)
 :::
 
-::: {style="color: purple"}
-**Candidate job talk: Christian Stratton**
-:::
 
--   12:30-1:20pm in Warner 101
-
--   Talk title: "An overview of Bayesian statistical methodology for ecological and environmental applications"
 
 **Topics**
 
@@ -35,13 +29,6 @@ To be completed and submitted to Canvas by 7:45am
 ### Thursday (11/02)
 :::
 
-::: {style="color: purple"}
-**Candidate job talk: Maddie Rainey**
-:::
-
--   12:30-1:20pm in Warner 101
-
--   Talk title: "Modeling Spatial Data with the Flexibility of Spatial Splines"
 
 **Topics**
 
